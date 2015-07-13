@@ -1,0 +1,20 @@
+﻿Сборка начата 18.07.2014 19:59:17.
+     1>Проект "C:\Downloads\Pinger\Pinger\Pinger\Pinger.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\downloads\pinger\pinger\pinger\main.cpp(470): warning C4800: LPARAM: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\downloads\pinger\pinger\pinger\main.cpp(477): warning C4800: LPARAM: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\downloads\pinger\pinger\pinger\main.cpp(464): warning C4101: fSave: неиспользованная локальная переменная
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Downloads\Pinger\Pinger\Debug\Pinger.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Downloads\Pinger\Pinger\Debug\Pinger.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Downloads\Pinger\Pinger\Debug\Pinger.lib" /MACHINE:X86 Debug\Pinger.res
+         Debug\main.obj
+         Debug\PingStatistics.obj
+         Debug\rw_lock.obj
+         Debug\splash.obj
+         Pinger.vcxproj -> C:\Downloads\Pinger\Pinger\Debug\Pinger.exe
+     1>Сборка проекта "C:\Downloads\Pinger\Pinger\Pinger\Pinger.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.91
